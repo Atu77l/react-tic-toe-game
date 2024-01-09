@@ -1,5 +1,5 @@
-![Screenshot (67)](https://github.com/Atu77l/react-tic-toe-game/assets/60789960/95fcf28c-f101-4791-a251-ce4433fd39b5)
-![Screenshot (66)](https://github.com/Atu77l/react-tic-toe-game/assets/60789960/ee875f46-73b3-49ec-932b-0d4fdf229416)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,3 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![Screenshot (67)](https://github.com/Atu77l/react-tic-toe-game/assets/60789960/c4301194-bfc6-48cc-9a91-f64b101fda0f)
+![Screenshot (66)](https://github.com/Atu77l/react-tic-toe-game/assets/60789960/564f9526-c01c-463c-85c2-ab2806e8d3de)
