@@ -1,3 +1,5 @@
+![Screenshot (67)](https://github.com/Atu77l/react-tic-toe-game/assets/60789960/95fcf28c-f101-4791-a251-ce4433fd39b5)
+![Screenshot (66)](https://github.com/Atu77l/react-tic-toe-game/assets/60789960/ee875f46-73b3-49ec-932b-0d4fdf229416)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
